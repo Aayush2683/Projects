@@ -1,1 +1,26 @@
+Hand Cricket is a fun and interactive implementation of the classic game using real-time hand tracking and computer vision. 
+This project utilizes the MediaPipe library for hand landmark detection, allowing players to make their moves by showing their hand gestures to the camera.
 
+Features:
+~ Real-time hand landmark detection using MediaPipe.
+~ Interactive gameplay with dynamic score tracking.
+~ Computer opponent with randomized moves.
+~ Option to choose between odd and even for determining the winner.
+
+Requirements:
+~ Python 3.x
+~ OpenCV
+~ MediaPipe
+~ NumPy
+~ Matplotlib
+
+How To Play:
+1. Start the Program.
+2. Follow the on-screen instructions to choose between odd and even and play your turn.
+3. Use hand gestures to make your move.
+4. The computer will randomly generate its move.
+5. Enjoy the game and try to beat the computer!
+
+Credits:
+This project uses the MediaPipe library for hand tracking and landmark detection.
+Developed by Aayush Sharma (aayush03@hotmail.com).
